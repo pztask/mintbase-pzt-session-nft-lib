@@ -1,0 +1,12 @@
+{
+  "name": "mintbase-pzt-session-nft-lib",
+  "version": "0.1.0",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "near-api-js": "^2.0.4",
+    "mintbase": "^0.8.5-rc.2",
+    "@mintbase-js/sdk": "^0.2.0-beta.0",
+    "uuid": "^9.0.0"
+  }
+}
