@@ -1,4 +1,4 @@
-# Mintbase Puzzletask Session-NFT lib
+# Mintbase Puzzletask Session-NFT Lib
 
 ## Core Features
 
