@@ -6,6 +6,25 @@ The core `mintbase-pzt-session-nft-lib` is a set of convenience helpers to be us
 
 It relies on the low-level isomorphic `execute` method that can be passed raw `NearContractCall` information.
 
+## Install lib
+
+```bash
+yarn add https://github.com/pztask/mintbase-pzt-session-nft-lib/
+```
+
+## How to import the helpers
+
+```typescript
+import {
+  mintUserBoundNFT,
+  transferUserBoundNFT,
+  burnUserBoundNFT,
+  permitRequest,
+  getUserNFTs,
+  getUserPermit,
+} from "mintbase-pzt-session-nft-lib/puzzletaskHelpers";
+```
+
 ## Using the helpers
 
 The easiest way to call mintbase token and market contracts are with the helpers.
